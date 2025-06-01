@@ -1,6 +1,6 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, and execute run scripts on the repository. This is based on the default Node.js actions.
 
-name: CI
+name: Catherine Magallanes Catchavan
 
 on:
   push:
